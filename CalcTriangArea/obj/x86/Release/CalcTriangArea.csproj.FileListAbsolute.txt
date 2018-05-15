@@ -1,0 +1,4 @@
+C:\Users\karpo001\Desktop\gkarpov\SoftUni\CSharpFund\ClassesConstructorsDataMethods\CalcTriangArea\bin\Release\CalcTriangArea.exe
+C:\Users\karpo001\Desktop\gkarpov\SoftUni\CSharpFund\ClassesConstructorsDataMethods\CalcTriangArea\bin\Release\CalcTriangArea.pdb
+C:\Users\karpo001\Desktop\gkarpov\SoftUni\CSharpFund\ClassesConstructorsDataMethods\CalcTriangArea\obj\x86\Release\CalcTriangArea.exe
+C:\Users\karpo001\Desktop\gkarpov\SoftUni\CSharpFund\ClassesConstructorsDataMethods\CalcTriangArea\obj\x86\Release\CalcTriangArea.pdb

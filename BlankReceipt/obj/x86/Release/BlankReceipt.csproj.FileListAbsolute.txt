@@ -1,0 +1,4 @@
+C:\Users\karpo001\Desktop\gkarpov\SoftUni\CSharpFund\ClassesConstructorsDataMethods\BlankReceipt\bin\Release\BlankReceipt.exe
+C:\Users\karpo001\Desktop\gkarpov\SoftUni\CSharpFund\ClassesConstructorsDataMethods\BlankReceipt\bin\Release\BlankReceipt.pdb
+C:\Users\karpo001\Desktop\gkarpov\SoftUni\CSharpFund\ClassesConstructorsDataMethods\BlankReceipt\obj\x86\Release\BlankReceipt.exe
+C:\Users\karpo001\Desktop\gkarpov\SoftUni\CSharpFund\ClassesConstructorsDataMethods\BlankReceipt\obj\x86\Release\BlankReceipt.pdb

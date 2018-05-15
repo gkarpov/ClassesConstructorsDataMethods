@@ -1,0 +1,4 @@
+C:\Users\karpo001\Desktop\gkarpov\SoftUni\CSharpFund\ClassesConstructorsDataMethods\GreaterTwoValues\bin\Debug\GreaterTwoValues.exe
+C:\Users\karpo001\Desktop\gkarpov\SoftUni\CSharpFund\ClassesConstructorsDataMethods\GreaterTwoValues\bin\Debug\GreaterTwoValues.pdb
+C:\Users\karpo001\Desktop\gkarpov\SoftUni\CSharpFund\ClassesConstructorsDataMethods\GreaterTwoValues\obj\x86\Debug\GreaterTwoValues.exe
+C:\Users\karpo001\Desktop\gkarpov\SoftUni\CSharpFund\ClassesConstructorsDataMethods\GreaterTwoValues\obj\x86\Debug\GreaterTwoValues.pdb

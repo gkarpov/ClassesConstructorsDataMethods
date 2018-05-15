@@ -1,0 +1,4 @@
+C:\Users\karpo001\Desktop\gkarpov\SoftUni\CSharpFund\ClassesConstructorsDataMethods\SignOfNum\bin\Debug\SignOfNum.exe
+C:\Users\karpo001\Desktop\gkarpov\SoftUni\CSharpFund\ClassesConstructorsDataMethods\SignOfNum\bin\Debug\SignOfNum.pdb
+C:\Users\karpo001\Desktop\gkarpov\SoftUni\CSharpFund\ClassesConstructorsDataMethods\SignOfNum\obj\x86\Debug\SignOfNum.exe
+C:\Users\karpo001\Desktop\gkarpov\SoftUni\CSharpFund\ClassesConstructorsDataMethods\SignOfNum\obj\x86\Debug\SignOfNum.pdb

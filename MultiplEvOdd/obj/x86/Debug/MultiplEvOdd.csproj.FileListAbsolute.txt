@@ -1,0 +1,4 @@
+C:\Users\karpo001\Desktop\gkarpov\SoftUni\CSharpFund\ClassesConstructorsDataMethods\MultiplEvOdd\bin\Debug\MultiplEvOdd.exe
+C:\Users\karpo001\Desktop\gkarpov\SoftUni\CSharpFund\ClassesConstructorsDataMethods\MultiplEvOdd\bin\Debug\MultiplEvOdd.pdb
+C:\Users\karpo001\Desktop\gkarpov\SoftUni\CSharpFund\ClassesConstructorsDataMethods\MultiplEvOdd\obj\x86\Debug\MultiplEvOdd.exe
+C:\Users\karpo001\Desktop\gkarpov\SoftUni\CSharpFund\ClassesConstructorsDataMethods\MultiplEvOdd\obj\x86\Debug\MultiplEvOdd.pdb
