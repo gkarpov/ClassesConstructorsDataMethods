@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPrime", "IsPrime\IsPrime.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimesInRange", "PrimesInRange\PrimesInRange.csproj", "{E3EC39B8-0DBA-4A56-833A-A6C130484B56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClosestCenter", "ClosestCenter\ClosestCenter.csproj", "{BD5CD055-9C2B-4083-8A67-E71ACDA47803}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeomCalc", "GeomCalc\GeomCalc.csproj", "{F3B6E0E7-BD82-4D83-8088-A64779CB77E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -61,6 +65,14 @@ Global
 		{E3EC39B8-0DBA-4A56-833A-A6C130484B56}.Debug|x86.Build.0 = Debug|x86
 		{E3EC39B8-0DBA-4A56-833A-A6C130484B56}.Release|x86.ActiveCfg = Release|x86
 		{E3EC39B8-0DBA-4A56-833A-A6C130484B56}.Release|x86.Build.0 = Release|x86
+		{BD5CD055-9C2B-4083-8A67-E71ACDA47803}.Debug|x86.ActiveCfg = Debug|x86
+		{BD5CD055-9C2B-4083-8A67-E71ACDA47803}.Debug|x86.Build.0 = Debug|x86
+		{BD5CD055-9C2B-4083-8A67-E71ACDA47803}.Release|x86.ActiveCfg = Release|x86
+		{BD5CD055-9C2B-4083-8A67-E71ACDA47803}.Release|x86.Build.0 = Release|x86
+		{F3B6E0E7-BD82-4D83-8088-A64779CB77E6}.Debug|x86.ActiveCfg = Debug|x86
+		{F3B6E0E7-BD82-4D83-8088-A64779CB77E6}.Debug|x86.Build.0 = Debug|x86
+		{F3B6E0E7-BD82-4D83-8088-A64779CB77E6}.Release|x86.ActiveCfg = Release|x86
+		{F3B6E0E7-BD82-4D83-8088-A64779CB77E6}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
