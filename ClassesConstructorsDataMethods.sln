@@ -23,6 +23,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClosestCenter", "ClosestCen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeomCalc", "GeomCalc\GeomCalc.csproj", "{F3B6E0E7-BD82-4D83-8088-A64779CB77E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterNumbers", "MasterNumbers\MasterNumbers.csproj", "{22C7BE08-20A2-4175-A31C-A0E92463A425}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial.csproj", "{678E8B22-99D5-44A5-9C4E-41B8EA8B1FC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorTrailZeros", "FactorTrailZeros\FactorTrailZeros.csproj", "{44B445EF-AEC1-479A-B2FD-93BD44923EDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -73,6 +79,18 @@ Global
 		{F3B6E0E7-BD82-4D83-8088-A64779CB77E6}.Debug|x86.Build.0 = Debug|x86
 		{F3B6E0E7-BD82-4D83-8088-A64779CB77E6}.Release|x86.ActiveCfg = Release|x86
 		{F3B6E0E7-BD82-4D83-8088-A64779CB77E6}.Release|x86.Build.0 = Release|x86
+		{22C7BE08-20A2-4175-A31C-A0E92463A425}.Debug|x86.ActiveCfg = Debug|x86
+		{22C7BE08-20A2-4175-A31C-A0E92463A425}.Debug|x86.Build.0 = Debug|x86
+		{22C7BE08-20A2-4175-A31C-A0E92463A425}.Release|x86.ActiveCfg = Release|x86
+		{22C7BE08-20A2-4175-A31C-A0E92463A425}.Release|x86.Build.0 = Release|x86
+		{678E8B22-99D5-44A5-9C4E-41B8EA8B1FC5}.Debug|x86.ActiveCfg = Debug|x86
+		{678E8B22-99D5-44A5-9C4E-41B8EA8B1FC5}.Debug|x86.Build.0 = Debug|x86
+		{678E8B22-99D5-44A5-9C4E-41B8EA8B1FC5}.Release|x86.ActiveCfg = Release|x86
+		{678E8B22-99D5-44A5-9C4E-41B8EA8B1FC5}.Release|x86.Build.0 = Release|x86
+		{44B445EF-AEC1-479A-B2FD-93BD44923EDA}.Debug|x86.ActiveCfg = Debug|x86
+		{44B445EF-AEC1-479A-B2FD-93BD44923EDA}.Debug|x86.Build.0 = Debug|x86
+		{44B445EF-AEC1-479A-B2FD-93BD44923EDA}.Release|x86.ActiveCfg = Release|x86
+		{44B445EF-AEC1-479A-B2FD-93BD44923EDA}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
