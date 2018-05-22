@@ -29,6 +29,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Fact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorTrailZeros", "FactorTrailZeros\FactorTrailZeros.csproj", "{44B445EF-AEC1-479A-B2FD-93BD44923EDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistancePoints", "DistancePoints\DistancePoints.csproj", "{2E1F78B3-2CAF-4518-BF78-F1EF32E2D338}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesReport", "SalesReport\SalesReport.csproj", "{C2FF3582-87A6-4844-98E2-E65F000FBE47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClosestPoint", "ClosestPoint\ClosestPoint.csproj", "{041B822E-A979-4F4A-A161-9281E5CFA567}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersecCircles", "IntersecCircles\IntersecCircles.csproj", "{9F7BA698-12A7-4211-A7C3-ABCC602F274F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -91,6 +99,22 @@ Global
 		{44B445EF-AEC1-479A-B2FD-93BD44923EDA}.Debug|x86.Build.0 = Debug|x86
 		{44B445EF-AEC1-479A-B2FD-93BD44923EDA}.Release|x86.ActiveCfg = Release|x86
 		{44B445EF-AEC1-479A-B2FD-93BD44923EDA}.Release|x86.Build.0 = Release|x86
+		{2E1F78B3-2CAF-4518-BF78-F1EF32E2D338}.Debug|x86.ActiveCfg = Debug|x86
+		{2E1F78B3-2CAF-4518-BF78-F1EF32E2D338}.Debug|x86.Build.0 = Debug|x86
+		{2E1F78B3-2CAF-4518-BF78-F1EF32E2D338}.Release|x86.ActiveCfg = Release|x86
+		{2E1F78B3-2CAF-4518-BF78-F1EF32E2D338}.Release|x86.Build.0 = Release|x86
+		{C2FF3582-87A6-4844-98E2-E65F000FBE47}.Debug|x86.ActiveCfg = Debug|x86
+		{C2FF3582-87A6-4844-98E2-E65F000FBE47}.Debug|x86.Build.0 = Debug|x86
+		{C2FF3582-87A6-4844-98E2-E65F000FBE47}.Release|x86.ActiveCfg = Release|x86
+		{C2FF3582-87A6-4844-98E2-E65F000FBE47}.Release|x86.Build.0 = Release|x86
+		{041B822E-A979-4F4A-A161-9281E5CFA567}.Debug|x86.ActiveCfg = Debug|x86
+		{041B822E-A979-4F4A-A161-9281E5CFA567}.Debug|x86.Build.0 = Debug|x86
+		{041B822E-A979-4F4A-A161-9281E5CFA567}.Release|x86.ActiveCfg = Release|x86
+		{041B822E-A979-4F4A-A161-9281E5CFA567}.Release|x86.Build.0 = Release|x86
+		{9F7BA698-12A7-4211-A7C3-ABCC602F274F}.Debug|x86.ActiveCfg = Debug|x86
+		{9F7BA698-12A7-4211-A7C3-ABCC602F274F}.Debug|x86.Build.0 = Debug|x86
+		{9F7BA698-12A7-4211-A7C3-ABCC602F274F}.Release|x86.ActiveCfg = Release|x86
+		{9F7BA698-12A7-4211-A7C3-ABCC602F274F}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
