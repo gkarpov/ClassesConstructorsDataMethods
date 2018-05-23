@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClosestPoint", "ClosestPoin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersecCircles", "IntersecCircles\IntersecCircles.csproj", "{9F7BA698-12A7-4211-A7C3-ABCC602F274F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageGrade", "AverageGrade\AverageGrade.csproj", "{575C50A5-959E-48BD-A984-3A4E33EBB60C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookLibrary", "BookLibrary\BookLibrary.csproj", "{7E7BD99D-ABAD-43FD-9E02-D01DF56050FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -115,6 +119,14 @@ Global
 		{9F7BA698-12A7-4211-A7C3-ABCC602F274F}.Debug|x86.Build.0 = Debug|x86
 		{9F7BA698-12A7-4211-A7C3-ABCC602F274F}.Release|x86.ActiveCfg = Release|x86
 		{9F7BA698-12A7-4211-A7C3-ABCC602F274F}.Release|x86.Build.0 = Release|x86
+		{575C50A5-959E-48BD-A984-3A4E33EBB60C}.Debug|x86.ActiveCfg = Debug|x86
+		{575C50A5-959E-48BD-A984-3A4E33EBB60C}.Debug|x86.Build.0 = Debug|x86
+		{575C50A5-959E-48BD-A984-3A4E33EBB60C}.Release|x86.ActiveCfg = Release|x86
+		{575C50A5-959E-48BD-A984-3A4E33EBB60C}.Release|x86.Build.0 = Release|x86
+		{7E7BD99D-ABAD-43FD-9E02-D01DF56050FA}.Debug|x86.ActiveCfg = Debug|x86
+		{7E7BD99D-ABAD-43FD-9E02-D01DF56050FA}.Debug|x86.Build.0 = Debug|x86
+		{7E7BD99D-ABAD-43FD-9E02-D01DF56050FA}.Release|x86.ActiveCfg = Release|x86
+		{7E7BD99D-ABAD-43FD-9E02-D01DF56050FA}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
