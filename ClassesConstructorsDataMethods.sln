@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageGrade", "AverageGrad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookLibrary", "BookLibrary\BookLibrary.csproj", "{7E7BD99D-ABAD-43FD-9E02-D01DF56050FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModifBookLib", "ModifBookLib\ModifBookLib.csproj", "{33F9B589-80EC-4799-9E00-F02B0D7742A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -127,6 +129,10 @@ Global
 		{7E7BD99D-ABAD-43FD-9E02-D01DF56050FA}.Debug|x86.Build.0 = Debug|x86
 		{7E7BD99D-ABAD-43FD-9E02-D01DF56050FA}.Release|x86.ActiveCfg = Release|x86
 		{7E7BD99D-ABAD-43FD-9E02-D01DF56050FA}.Release|x86.Build.0 = Release|x86
+		{33F9B589-80EC-4799-9E00-F02B0D7742A9}.Debug|x86.ActiveCfg = Debug|x86
+		{33F9B589-80EC-4799-9E00-F02B0D7742A9}.Debug|x86.Build.0 = Debug|x86
+		{33F9B589-80EC-4799-9E00-F02B0D7742A9}.Release|x86.ActiveCfg = Release|x86
+		{33F9B589-80EC-4799-9E00-F02B0D7742A9}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

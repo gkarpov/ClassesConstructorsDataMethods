@@ -66,7 +66,6 @@ namespace BookLibrary
                         n++;
                     }
                 }
-                //AutPrices[a]=avgprice/n;
                 AutPrices[a]=avgprice;
                 avgprice = 0;
                 n=0;
@@ -79,18 +78,11 @@ namespace BookLibrary
     public void AuthorPrice()
     {
         Dictionary<string, double> dict = this.AvgPrice();
-        var items = from pair in dict
-                    orderby pair.Value descending
-                    select pair;
 
-        //foreach (var aut in dict)
-        //{
-        //    Console.WriteLine("{0} -> {1:0.00}", aut.Key, aut.Value);
+        foreach (var item in dict.OrderByDescending(x => x.Value).ThenBy(x => x.Key))
 
-        //}
-        foreach (KeyValuePair<string, double> pair in items)
         {
-            Console.WriteLine("{0} -> {1:0.00}", pair.Key, pair.Value);
+            Console.WriteLine("{0} -> {1:0.00}", item.Key, item.Value);
         }
     }
     }
