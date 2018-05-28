@@ -43,6 +43,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookLibrary", "BookLibrary\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModifBookLib", "ModifBookLib\ModifBookLib.csproj", "{33F9B589-80EC-4799-9E00-F02B0D7742A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndeyBilliard", "AndeyBilliard\AndeyBilliard.csproj", "{A5BC429F-EEC5-4665-A7DE-19AF12E1BEAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentorGroup", "MentorGroup\MentorGroup.csproj", "{0B5201AA-AA99-4723-AE5A-26B42A271A17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -133,6 +137,14 @@ Global
 		{33F9B589-80EC-4799-9E00-F02B0D7742A9}.Debug|x86.Build.0 = Debug|x86
 		{33F9B589-80EC-4799-9E00-F02B0D7742A9}.Release|x86.ActiveCfg = Release|x86
 		{33F9B589-80EC-4799-9E00-F02B0D7742A9}.Release|x86.Build.0 = Release|x86
+		{A5BC429F-EEC5-4665-A7DE-19AF12E1BEAB}.Debug|x86.ActiveCfg = Debug|x86
+		{A5BC429F-EEC5-4665-A7DE-19AF12E1BEAB}.Debug|x86.Build.0 = Debug|x86
+		{A5BC429F-EEC5-4665-A7DE-19AF12E1BEAB}.Release|x86.ActiveCfg = Release|x86
+		{A5BC429F-EEC5-4665-A7DE-19AF12E1BEAB}.Release|x86.Build.0 = Release|x86
+		{0B5201AA-AA99-4723-AE5A-26B42A271A17}.Debug|x86.ActiveCfg = Debug|x86
+		{0B5201AA-AA99-4723-AE5A-26B42A271A17}.Debug|x86.Build.0 = Debug|x86
+		{0B5201AA-AA99-4723-AE5A-26B42A271A17}.Release|x86.ActiveCfg = Release|x86
+		{0B5201AA-AA99-4723-AE5A-26B42A271A17}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
