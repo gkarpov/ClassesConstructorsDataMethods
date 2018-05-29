@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Globalization;
 
 namespace MentorGroup
 {
@@ -20,15 +21,15 @@ namespace MentorGroup
         {
             foreach (var st in students)
             {
-                Console.WriteLine("{0}", st.Key);
-                Console.WriteLine("Comments:");
-                foreach(var com in st.Value.Comments)
-                    Console.WriteLine("- {0}", com);
-                Console.WriteLine("Dates attended:");
-                foreach(var dat in st.Value.Dates)
-                    Console.WriteLine("-- {0}", dat);
+                    Console.WriteLine("{0}", st.Key);
+                    Console.WriteLine("Comments:");
+                    foreach (var com in st.Value.Comments)
+                        Console.WriteLine("- {0}", com);
+                    Console.WriteLine("Dates attended:");
+                    foreach (var dat in st.Value.Dates)
+                        Console.WriteLine("-- {0:dd/MM/yyyy}", dat);
+                
             }
-
         }
 
 
@@ -44,12 +45,17 @@ namespace MentorGroup
                 if (inp != "end of dates")
                 {
                 var input =inp.Split(new char[] { ' ', ',' }).ToArray();
-                
-                    //tmp.name = input[0];
-                    for (int i = 1; i < input.Count(); i++)
-                        tmp.Dates.Add(DateTime.Parse(input[i]));
+                    if(!studs.ContainsKey(input[0]))
+                        studs[input[0]] = new Student();
+                    if (input.Count() > 1)
+                    {
+                        for (int i = 1; i < input.Count(); i++)
+                        {
+                           studs[input[0]].Dates.Add(DateTime.ParseExact(input[i], "dd/MM/yyyy", CultureInfo.InvariantCulture));
+                        }
+                        studs[input[0]].Dates.Sort();
+                    }
 
-                    studs[input[0]] = tmp;
                 }
                 else
                 {
@@ -61,16 +67,16 @@ namespace MentorGroup
             while (true)
             {
                 Student tmp = new Student();
-                var input = Console.ReadLine().Split('-').ToArray();
-                if (input[0] != "end of comments")
+                string inp =  Console.ReadLine();
+                if (inp != "end of comments")
                 {
-                    //tmp.name = input[0];
+                    var input = inp.Split('-').ToArray();
+                
                     if (studs.ContainsKey(input[0]))
                     {
-                        for (int i = 1; i < input.Count(); i++)
-                            tmp.Comments.Add(input[i]);
-
-                        studs[input[0]].Comments = tmp.Comments;
+                        for (int i = 1; i < input.Count(); i++)                           
+                            studs[input[0]].Comments.Add(input[i]);
+                        
                     }   
                 }
                 else
